@@ -1,0 +1,8 @@
+Code source : licence GPL v3+ (GNU General Public License version 3 ou supérieure)
+https://www.gnu.org/licenses/gpl-3.0.html
+
+Textes et contenus : licence Creative Commons CC By-Sa
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Auteurs : Adam Hzeg, Alexis Lyonnet, Martin Mechin
+Lycée Français Georges Pompidou, Dubai, 2025
